@@ -2,7 +2,6 @@
 
 package books;
 
-// Fig. 24.29: DisplayQueryResultsController.java
 // Controller for the DisplayQueryResults app
 import java.sql.SQLException;
 import java.util.regex.PatternSyntaxException;
