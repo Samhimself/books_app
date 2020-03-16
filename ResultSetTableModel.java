@@ -1,6 +1,5 @@
 package books;
 
-// Fig. 24.25: ResultSetTableModel.java
 // A TableModel that supplies ResultSet data to a JTable.
 import java.sql.Connection;
 import java.sql.Statement;
